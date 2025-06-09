@@ -13,10 +13,5 @@
 <!-- Sobre mí -->
 ## 👋 Sobre mí
 
-```js
-const TuNombre = {
-  pronombres: "él / him",
-  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "SQL"],
-  tools: ["React", "Node.js", "Next.js", "Express", "Tailwind", "MongoDB"],
-  pasatiempos: ["🎸 música", "🎮 videojuegos", "📚 libros", "🚀 proyectos"]
+
 }
