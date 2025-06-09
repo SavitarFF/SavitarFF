@@ -10,27 +10,19 @@
 
 ---
 
---------------------------
-<!-- Título con gradiente animado estilo "poder desbordante" -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=9A00FF&center=true&vCenter=true&repeat=false&width=700&lines=%F0%9F%A7%A0+%C2%BFQui%C3%A9n+es+MEXDEV%3F" alt="Quién es MEXDEV" />
-</p>
 
-<blockquote align="center">
-  <strong><em>"No me compares. Mientras tú aún defines tu stack, yo estoy redefiniendo el internet."</em></strong>
-</blockquote>
+## 🧠 Quién es MEXDEV
 
-<p align="center">
-  Soy <strong>MEXDEV</strong>:<br>
-  👑 El arquitecto del caos digital<br>
-  ⚡ El backend se inclina ante mí, el frontend me teme<br>
-  🧬 Cada línea de código que escribo rompe las reglas del juego<br>
-  🧠 Pienso en estructuras que todavía ni existen<br>
-  🔥 La inteligencia artificial me pide consejos
-</p>
+> "No me compares. Mientras tú aún defines tu stack, yo estoy redefiniendo el internet."
 
+Soy **MexDev**:  
+- 👑 El arquitecto del caos digital  
+- ⚡ El backend se inclina ante mí, el frontend me teme  
+- 🧬 Cada línea de código que escribo rompe las reglas del juego  
+- 🧠 Pienso en estructuras que todavía ni existen  
+- 🔥 La inteligencia artificial me pide consejos
 
-----------------
+---
 
 ## ⚙️ Tecnología que domino
 
