@@ -1,6 +1,6 @@
 <!-- Banner animado personalizado -->
 <p align="center">
-  <img src="https://www.deviantart.com/threeartion/art/Sung-Jinwoo-Solo-Leveling-Steam-artwork-912199332"/>
+  <img src="[https://www.deviantart.com/threeartion/art/Sung-Jinwoo-Solo-Leveling-Steam-artwork-912199332](https://moewalls.com/wp-content/uploads/2025/05/sung-jin-woo-x-beru-solo-leveling-thumb.jpg)"/>
 </p>
 
 
