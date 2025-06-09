@@ -1,6 +1,6 @@
 <!-- Banner animado personalizado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:7000FF&height=300&section=header&text=MEXDEV&fontSize=90&fontColor=ffffff&animation=twinkling&desc=Overflowing%20Power&descSize=20&descAlignY=70" />
+  <img src="[https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:7000FF&height=300&section=header&text=MEXDEV&fontSize=90&fontColor=ffffff&animation=twinkling&desc=Overflowing%20Power&descSize=20&descAlignY=70](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c7d30790-cf7f-408f-a8fb-6c3dcc26e73a/df33lic-d25ed539-af4c-4b7c-bbb9-415e8d09f057.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3ZDMwNzkwLWNmN2YtNDA4Zi1hOGZiLTZjM2RjYzI2ZTczYVwvZGYzM2xpYy1kMjVlZDUzOS1hZjRjLTRiN2MtYmJiOS00MTVlOGQwOWYwNTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xPdyjo-qgyW-3TrvAA709hPPw9So16nF9uAocKmv7Ok)" />
 </p>
 
 <!-- Nombre de usuario con poder desbordando (estilo "gif") -->
