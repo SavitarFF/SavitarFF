@@ -10,19 +10,44 @@
 
 ---
 
-## 🧠 Quién es MEXDEV
+<!-- Quién es MEXDEV con animación -->
+<h2 align="center" style="
+  font-size: 2.5em;
+  font-weight: 900;
+  background: linear-gradient(90deg, #8a2be2, #9400ff, #4b0082, #000000);
+  background-size: 600% auto;
+  color: #fff;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textShine 8s ease-in-out infinite alternate;
+">
+  🧠 ¿Quién es MEXDEV?
+</h2>
 
-> "No me compares. Mientras tú aún defines tu stack, yo estoy redefiniendo el internet."
+<blockquote align="center" style="font-size: 1.1em; font-style: italic; color: #aaaaaa;">
+  "No me compares. Mientras tú aún defines tu stack, yo estoy redefiniendo el internet."
+</blockquote>
 
-Soy **MexDev**:  
-- 👑 El arquitecto del caos digital  
-- ⚡ El backend se inclina ante mí, el frontend me teme  
-- 🧬 Cada línea de código que escribo rompe las reglas del juego  
-- 🧠 Pienso en estructuras que todavía ni existen  
-- 🔥 La inteligencia artificial me pide consejos
+<p style="font-size: 1.1em; color: #ddd; font-weight: 500; line-height: 1.6;">
+  Soy <strong style="color: #fff;">MexDev</strong>:<br>
+  👑 El arquitecto del caos digital<br>
+  ⚡ El backend se inclina ante mí, el frontend me teme<br>
+  🧬 Cada línea de código que escribo rompe las reglas del juego<br>
+  🧠 Pienso en estructuras que todavía ni existen<br>
+  🔥 La inteligencia artificial me pide consejos
+</p>
 
----
-
+<style>
+@keyframes textShine {
+  0% {
+    background-position: 0% center;
+  }
+  100% {
+    background-position: 100% center;
+  }
+}
+</style>
 ## ⚙️ Tecnología que domino
 
 > “El blanco y negro son los únicos colores que necesita un dios digital.”
