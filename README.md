@@ -1,17 +1,64 @@
-<!-- Encabezado animado -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&center=true&vCenter=true&lines=¡Hola,+soy+TuNombre!;Desarrollador+Fullstack;Apasionado+por+la+Tecnología+💻;Siempre+aprendiendo+cosas+nuevas+🚀&font=Fira+Code&size=25" />
-</h1>
-
-<!-- Redes sociales -->
+<!-- Banner animado personalizado -->
 <p align="center">
-  <a href="https://github.com/tuusuario"><img src="https://img.shields.io/github/followers/tuusuario?label=Seguidores&style=social" /></a>
-  <a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://twitter.com/tuusuario"><img src="https://img.shields.io/twitter/follow/tuusuario?style=social" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:7000FF&height=300&section=header&text=MEXDEV&fontSize=90&fontColor=ffffff&animation=twinkling&desc=Overflowing%20Power&descSize=20&descAlignY=70" />
 </p>
 
-<!-- Sobre mí -->
-## 👋 Sobre mí
+<!-- Nombre de usuario con poder desbordando (estilo "gif") -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=9400FF&center=true&vCenter=true&repeat=true&width=435&lines=MEXDEV+%F0%9F%94%A5;No+puedes+igualarme...;Tu+stack+tiembla+ante+mi+presencia" alt="Typing SVG" />
+</h1>
 
+---
 
-}
+## 🧠 Quién es MEXDEV
+
+> "No me compares. Mientras tú aún defines tu stack, yo estoy redefiniendo el internet."
+
+Soy **MexDev**:  
+- 👑 El arquitecto del caos digital  
+- ⚡ El backend se inclina ante mí, el frontend me teme  
+- 🧬 Cada línea de código que escribo rompe las reglas del juego  
+- 🧠 Pienso en estructuras que todavía ni existen  
+- 🔥 La inteligencia artificial me pide consejos
+
+---
+
+## ⚙️ Tecnología que domino
+
+> “El blanco y negro son los únicos colores que necesita un dios digital.”
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,python,docker,linux,vim,mongodb,git,html,css&theme=dark" />
+</p>
+
+---
+
+## 🧾 Stats de un prodigio
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mexdev&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&custom_title=Estadísticas+del+Dios+del+Código" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mexdev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Rastro de poder
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mexdev&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## 👁️‍🗨️ Proyectos Destacados
+
+- 🧠 [Controlador dimensional de APIs](https://github.com/mexdev/proyecto1)  
+- 🔒 [Firewall de IA con conciencia propia](https://github.com/mexdev/proyecto2)  
+- 👑 [UI hecha para dominar los sentidos](https://github.com/mexdev/proyecto3)
+
+---
+
+<!-- Footer con estilo "poder desbordando" -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7000FF&height=120&section=footer&text=%E2%9C%A8+Observa+y+aprende+de+MexDev&fontColor=ffffff&fontSize=24" />
+</p>
