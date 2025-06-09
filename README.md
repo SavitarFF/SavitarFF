@@ -1,6 +1,6 @@
 <!-- Banner animado personalizado -->
 <p align="center">
-  <img src=https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c7d30790-cf7f-408f-a8fb-6c3dcc26e73a/df33lic-d25ed539-af4c-4b7c-bbb9-415e8d09f057.gif?token/>
+  <img src="https://www.deviantart.com/threeartion/art/Sung-Jinwoo-Solo-Leveling-Steam-artwork-912199332"/>
 </p>
 
 
