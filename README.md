@@ -1,9 +1,8 @@
 <!-- Banner animado personalizado -->
 
 <p align="center">
-  <img src="[https://moewalls.com/wp-content/uploads/2025/05/sung-jin-woo-x-beru-solo-leveling-thumb.jpg](https://images.steamusercontent.com/ugc/1678121119960744195/3C9D9F2FB8AAAA0CB06D71D07E1D90F1D5CC9A8C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)" alt="MEXDEV banner" style="width:100%; border-radius:10px;" />
+  <img src="https://moewalls.com/wp-content/uploads/2025/05/sung-jin-woo-x-beru-solo-leveling-thumb.jpg" alt="MEXDEV banner" style="width:100%; border-radius:10px;" />
 </p>
-
 <!-- Nombre de usuario con poder desbordando (estilo "gif") -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=9400FF&center=true&vCenter=true&repeat=true&width=435&lines=MEXDEV+%F0%9F%94%A5;No+puedes+igualarme...;Tu+stack+tiembla+ante+mi+presencia" alt="Typing SVG" />
