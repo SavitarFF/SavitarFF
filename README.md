@@ -1,7 +1,7 @@
 <!-- Banner animado personalizado -->
 
 <p align="center">
-  <img src="https://images.alphacoders.com/127/1277423.jpg" alt="MEXDEV banner" style="width:50%; border-radius:10px;" />
+  <img src="https://images.alphacoders.com/127/1277423.jpg" alt="MEXDEV banner" style="width:50%; border-radius:10px; box-shadow: 0 0 150px 35px rgb(0 220 255 / 75%);" />
 </p>
 <!-- Nombre de usuario con poder desbordando (estilo "gif") -->
 <h1 align="center">
