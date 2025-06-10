@@ -1,11 +1,11 @@
 <!-- Banner animado personalizado -->
 
 <p align="center">
-  <img src="https://images.alphacoders.com/127/1277423.jpg" alt="MEXDEV banner" style="width:60%; border-radius:10px;" />
+  <img src="https://images.alphacoders.com/127/1277423.jpg" alt="MEXDEV banner" style="width:50%; border-radius:10px;" />
 </p>
 <!-- Nombre de usuario con poder desbordando (estilo "gif") -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=9400FF&center=true&vCenter=true&repeat=true&width=435&lines=MEXDEV+%F0%9F%94%A5;No+puedes+igualarme...;Tu+stack+tiembla+ante+mi+presencia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=9000&size=28&pause=1000&color=9400FF&center=true&vCenter=true&repeat=true&width=435&lines=MEXDEV+%F0%9F%94%A5;No+puedes+igualarme...;Tu+stack+tiembla+ante+mi+presencia" alt="Typing SVG" />
 </h1>
 
 ---
