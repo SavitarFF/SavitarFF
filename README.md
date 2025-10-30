@@ -13,7 +13,7 @@
 
 ## 🧠 Quién es MEXDEV
 
-> "No me compares. Mientras tú aún defines tu stack, yo estoy redefiniendo el internet."
+> "me llamo diego y soy programador por diversion"
 
 Soy **MexDev**:  
 - 👑 El arquitecto del caos digital  
@@ -60,5 +60,5 @@ Soy **MexDev**:
 
 <!-- Footer con estilo "poder desbordando" -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer&text=+Observa+y+aprende+de+MexDev&fontColor=000&fontSize=24" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer&text=+Observa+y+aprende+de+MexDev&fontColor=111&fontSize=24" />
 </p>
