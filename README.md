@@ -60,5 +60,5 @@ Soy **MexDev**:
 
 <!-- Footer con estilo "poder desbordando" -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7000FF&height=120&section=footer&text=%E2%9C%A8+Observa+y+aprende+de+MexDev&fontColor=ffffff&fontSize=24" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer&text=%E2%9C%A8+Observa+y+aprende+de+MexDev&fontColor=ffffff&fontSize=24" />
 </p>
