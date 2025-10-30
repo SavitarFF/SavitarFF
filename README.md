@@ -26,7 +26,6 @@ Soy **MexDev**:
 
 ## ⚙️ Tecnología que domino
 
-> “El blanco y negro son los únicos colores que necesita un dios digital.”
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,angular,astro,python,php,mongodb,git,html,css&theme=dark" />
