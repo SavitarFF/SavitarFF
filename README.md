@@ -1,9 +1,9 @@
-<!-- Banner animado personalizado -->
+
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/21/41/84/2141844e1cd9f8719749e616b8bdee37.jpg" alt="MEXDEV banner" style="width:50%; border-radius:10px;" />
 </p>
-<!-- Nombre de usuario con poder desbordando (estilo "gif") -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=fff&center=true&vCenter=true&repeat=true&width=435&lines=MEXDEV+%F0%9F%94%A5;No+puedes+igualarme...;programador+por+diversion" alt="Typing SVG" />
 </h1>
@@ -58,7 +58,7 @@ Soy **MexDev**:
 
 ---
 
-<!-- Footer con estilo "poder desbordando" -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer&text=+Observa+y+aprende+de+MexDev&fontColor=F5F5F5&fontSize=24" />
 </p>
